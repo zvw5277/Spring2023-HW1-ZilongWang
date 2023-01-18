@@ -1,7 +1,7 @@
 # use spaces. Do NOT use tabs.
 
 def q1(mystring):
-    pass
+    tuple = 1
 
 
 def q2(mystring):
